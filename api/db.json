@@ -1,0 +1,35 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "soham",
+      "description": "Meghrotra",
+      "id": 2
+    },
+    {
+      "description": "Mehrotra",
+      "title": "Jimmy",
+      "id": 7
+    },
+    {
+      "title": "Soham changed this stream",
+      "description": "this stream is about refacoring.",
+      "id": 8
+    },
+    {
+      "title": "Unexpected Behavior",
+      "description": "Didn't expect that behavior",
+      "id": 10
+    },
+    {
+      "title": "My streaming component reuse!",
+      "description": "Watch me refactor some component.",
+      "userId": "118257498735262044672",
+      "id": 12
+    }
+  ]
+}
